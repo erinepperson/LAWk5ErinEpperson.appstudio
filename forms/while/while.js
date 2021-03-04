@@ -1,4 +1,7 @@
-let i = 1
-while (i <= 10){
-   console.log(`this is loop iteration ${i}.`)
+/*
+let loopIteration = 1
+while (loopIteration <= 10){
+   console.log(`This is loop iteration ${loopIteration}.`)
+   loopIteration++
 }
+*/
